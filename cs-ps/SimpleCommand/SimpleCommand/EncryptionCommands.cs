@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Management.Automation;
+using System.Runtime.InteropServices;
+using System.Security;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
@@ -54,6 +56,21 @@ namespace SimpleCommand
             var hash = new Rfc2898DeriveBytes(password, salt);
             key = hash.GetBytes(alg.KeySize / 8);
             iv = hash.GetBytes(alg.BlockSize / 8);
+        }
+        
+        public string FromSecureString(SecureString str)
+        {
+            IntPtr valuePtr = IntPtr.Zero;
+            try
+            {
+                valuePtr = Marshal.SecureStringToGlobalAllocUnicode(str);
+                return Marshal.PtrToStringUni(valuePtr);
+            }
+            finally
+            {
+                Marshal.ZeroFreeGlobalAllocUnicode(valuePtr);
+            }
+
         }
     }
 
