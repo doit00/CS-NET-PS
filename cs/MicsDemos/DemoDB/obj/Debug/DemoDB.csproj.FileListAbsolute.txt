@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Demos\DemoDB\bin\Debug\DemoDB.exe.config
+C:\Users\Administrator\source\repos\Demos\DemoDB\bin\Debug\DemoDB.exe
+C:\Users\Administrator\source\repos\Demos\DemoDB\bin\Debug\DemoDB.pdb
+C:\Users\Administrator\source\repos\Demos\DemoDB\obj\Debug\DemoDB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Demos\DemoDB\obj\Debug\DemoDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Demos\DemoDB\obj\Debug\DemoDB.exe
+C:\Users\Administrator\source\repos\Demos\DemoDB\obj\Debug\DemoDB.pdb
+C:\Users\Administrator\source\repos\Demos\DemoDB\bin\Debug\Dapper.dll
+C:\Users\Administrator\source\repos\Demos\DemoDB\bin\Debug\Dapper.xml
+C:\Users\Administrator\source\repos\Demos\DemoDB\obj\Debug\DemoDB.csproj.CopyComplete

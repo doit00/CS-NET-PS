@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogDemo", "Demo03\NLogDemo.csproj", "{083A5843-2FDC-40CF-BC25-77AC45F6FD14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CultureInfoDemo", "Demo04\CultureInfoDemo.csproj", "{C9161553-8785-4C69-A1BB-261BE58003A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBDemo", "DemoDB\DBDemo.csproj", "{8E600AD4-B566-43E5-A043-68AC854F6FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{083A5843-2FDC-40CF-BC25-77AC45F6FD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083A5843-2FDC-40CF-BC25-77AC45F6FD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083A5843-2FDC-40CF-BC25-77AC45F6FD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083A5843-2FDC-40CF-BC25-77AC45F6FD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9161553-8785-4C69-A1BB-261BE58003A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9161553-8785-4C69-A1BB-261BE58003A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9161553-8785-4C69-A1BB-261BE58003A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9161553-8785-4C69-A1BB-261BE58003A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E600AD4-B566-43E5-A043-68AC854F6FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E600AD4-B566-43E5-A043-68AC854F6FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E600AD4-B566-43E5-A043-68AC854F6FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E600AD4-B566-43E5-A043-68AC854F6FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3FAEEF5-14D3-42CB-92DC-CE12C9846D10}
+	EndGlobalSection
+EndGlobal

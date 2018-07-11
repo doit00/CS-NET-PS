@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Demos\Demo03\bin\Debug\NLog.config
+C:\Users\Administrator\source\repos\Demos\Demo03\bin\Debug\Demo03.exe.config
+C:\Users\Administrator\source\repos\Demos\Demo03\bin\Debug\Demo03.exe
+C:\Users\Administrator\source\repos\Demos\Demo03\bin\Debug\Demo03.pdb
+C:\Users\Administrator\source\repos\Demos\Demo03\bin\Debug\NLog.dll
+C:\Users\Administrator\source\repos\Demos\Demo03\bin\Debug\NLog.xml
+C:\Users\Administrator\source\repos\Demos\Demo03\obj\Debug\Demo03.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Demos\Demo03\obj\Debug\Demo03.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Demos\Demo03\obj\Debug\Demo03.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Demos\Demo03\obj\Debug\Demo03.exe
+C:\Users\Administrator\source\repos\Demos\Demo03\obj\Debug\Demo03.pdb

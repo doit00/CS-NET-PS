@@ -1,0 +1,5 @@
+c:\users\administrator\source\repos\Tools\Tools\bin\Debug\Tools.dll
+c:\users\administrator\source\repos\Tools\Tools\bin\Debug\Tools.pdb
+c:\users\administrator\source\repos\Tools\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\Tools\Tools\obj\Debug\Tools.dll
+c:\users\administrator\source\repos\Tools\Tools\obj\Debug\Tools.pdb

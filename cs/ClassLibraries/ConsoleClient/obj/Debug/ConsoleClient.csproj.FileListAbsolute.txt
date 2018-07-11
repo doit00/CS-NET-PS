@@ -1,0 +1,10 @@
+c:\Users\administrator\source\repos\Tools\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+c:\Users\administrator\source\repos\Tools\ConsoleClient\bin\Debug\ConsoleClient.exe
+c:\Users\administrator\source\repos\Tools\ConsoleClient\bin\Debug\ConsoleClient.pdb
+c:\Users\administrator\source\repos\Tools\ConsoleClient\bin\Debug\Tools.dll
+c:\Users\administrator\source\repos\Tools\ConsoleClient\bin\Debug\Tools.pdb
+c:\Users\administrator\source\repos\Tools\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+c:\Users\administrator\source\repos\Tools\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+c:\Users\administrator\source\repos\Tools\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
+c:\Users\administrator\source\repos\Tools\ConsoleClient\obj\Debug\ConsoleClient.exe
+c:\Users\administrator\source\repos\Tools\ConsoleClient\obj\Debug\ConsoleClient.pdb
